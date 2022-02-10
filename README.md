@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Ade</h1>
 <h3 align="center">An App Developer, Ux Designer.</h3>
 
-<p align="left"> <a href="https://twitter.com/twitter.com/bhuvanade" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/bhuvanade?logo=twitter&style=for-the-badge" alt="twitter.com/bhuvanade" /></a> </p>
+<p align="left"> <a href="https://twitter.com/twitter.com/bhuvanade" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/bhuvanade?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
 
