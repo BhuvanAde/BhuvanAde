@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [bhuvanade.works](bhuvanade.works)
+- 👨‍💻 All of my UI/UX projects are available at [bhuvanade.works](bhuvanade.works)
 
 - 📫 How to reach me **bhuvanadey@gmail.com**
 
