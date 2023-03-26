@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/twitter.com/bhuvanade" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/bhuvanade?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Development**
 
 - 👨‍💻 All of my UI/UX projects are available at [bhuvanade.works](bhuvanade.works)
 
@@ -24,4 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvanade&show_icons=true&locale=en&layout=compact" alt="bhuvanade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvanade&show_icons=true&locale=en" alt="bhuvanade" /></p>
