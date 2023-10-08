@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://twitter.com/twitter.com/bhuvanade" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/bhuvanade?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 👨‍💻 All of my UI/UX projects are available at [bhuvanade.works](bhuvanade.works)
+- 👨‍💻 All of my UI/UX projects are available at [bhuvan.me](bhuvan.me)
 
 - 📫 How to reach me **bhuvanadey@gmail.com**
 
-- 📄 Know about my experiences [bhuvanade.works](bhuvanade.works)
+- 📄 Know about my experiences [bhuvan.me](bhuvan.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
