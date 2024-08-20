@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bhuvan Ade</h1>
-<h3 align="center"> Developer, Ux Designer.</h3>
+<h3 align="center"> Developer, UI/ UX Design</h3>
 
 <p align="left"> <a href="https://twitter.com/twitter.com/bhuvanade" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/bhuvanade?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 👨‍💻 All of my UI/UX projects are available at [bhuvan.me](bhuvan.me)
+- 👨‍💻 All of my UI/UX projects are available at [bhuvan.me](bhuvanade.github.io)
 
 - 📫 How to reach me **bhuvanadey@gmail.com**
 
-- 📄 Know about my experiences [bhuvan.me](bhuvan.me)
+- 📄 Know about my experiences [bhuvan.me](bhuvanade.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
